@@ -76,6 +76,8 @@ Inventory-Management-System/
 ├── reports.py
 ├── schema.sql
 ├── README.md
+├── requirements.txt
+├── config.ini
 │
 ├── screenshots/
 │   ├── dashboard.png
